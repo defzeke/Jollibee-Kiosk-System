@@ -1,47 +1,53 @@
-🍔 Jollibee Kiosk Remake (Practice Project)
-A basic Jollibee-inspired self-service kiosk system built using Tkinter for the GUI and SQL for handling the inventory system.
-This project was developed as a learning exercise, particularly focused on GUI logic and database integration without object-oriented programming, as I'm still studying OOP principles.
+# 🍔 Jollibee Kiosk Remake (Practice Project)
 
-🖥️ Note: This project is designed specifically for 1920x1080 screen resolutions.
+A basic Jollibee-inspired self-service kiosk system built using **Tkinter** for the GUI and **SQL** for handling the inventory system.  
+This project was developed as a **learning exercise**, particularly focused on GUI logic and database integration **without object-oriented programming**, as I'm still studying OOP principles.
 
-🛠 Features
-🧭 Simple Menu Navigation
+> 🖥️ **Note**: This project is designed specifically for **1920x1080 screen resolutions**.
 
-🛒 Add-to-Cart and Checkout Flow
+---
 
-📦 Inventory Handling Using SQL
+## 🛠 Features
 
-📉 Basic Stock Deduction After Purchase
+- 🧭 Simple menu navigation  
+- 🛒 Add-to-cart and checkout flow  
+- 📦 Inventory handling using SQL  
+- 📉 Basic stock deduction after purchase  
+- 🧾 Order summary display  
 
-🧾 Order Summary Display
+---
 
-📷 Screenshots
-You can add your screenshots here. Let me know once they’re ready so I can help you place and caption them.
+## 📷 Screenshots
 
-🧰 Technologies Used
-Python + Tkinter – GUI Development
+_You can add your screenshots here. Let me know once they’re ready so I can help you place and caption them._
 
-SQLite – Inventory Management
+---
 
-Pillow – Image Support (if used)
+## 🧰 Technologies Used
 
-⚠️ Limitations
-Layout works only on 1920x1080 screen resolutions
+- **Python** + `tkinter` – GUI development  
+- **SQLite** – Inventory management  
+- **Pillow** – Image support (if used)  
 
-No OOP structure; logic is procedural
+---
 
-Minimal input validation and error handling
+## ⚠️ Limitations
 
-📚 Learning Goals
-Improve familiarity with GUI development using Tkinter
+- Layout works **only on 1920x1080** screen resolutions  
+- No OOP structure; logic is procedural  
+- Minimal input validation and error handling  
 
-Learn how to connect and interact with SQL databases
+---
 
-Gain hands-on experience in managing GUI states and transitions
+## 📚 Learning Goals
 
-🚀 How to Run
-bash
-Copy
-Edit
+- Improve familiarity with GUI development using Tkinter  
+- Learn how to connect and interact with SQL databases  
+- Gain hands-on experience in managing GUI states and transitions  
+
+---
+
+## 🚀 How to Run
+
+```bash
 python main.py
-Ensure all required libraries are installed (sqlite3, tkinter, and Pillow if applicable).
