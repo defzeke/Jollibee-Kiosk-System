@@ -19,7 +19,7 @@ This project was developed as a **learning exercise**, particularly focused on G
 
 ## 📷 Screenshots
 
-_You can add your screenshots here. Let me know once they’re ready so I can help you place and caption them._
+...
 
 ---
 
