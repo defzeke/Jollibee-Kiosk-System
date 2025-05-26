@@ -5,32 +5,32 @@ This project was developed as a learning exercise, particularly focused on GUI l
 🖥️ Note: This project is designed specifically for 1920x1080 screen resolutions.
 
 🛠 Features
-🧭 Simple menu navigation
+🧭 Simple Menu Navigation
 
-🛒 Add-to-cart and checkout flow
+🛒 Add-to-Cart and Checkout Flow
 
-📦 Inventory handling using SQL
+📦 Inventory Handling Using SQL
 
-📉 Basic stock deduction after purchase
+📉 Basic Stock Deduction After Purchase
 
-🧾 Order summary display
+🧾 Order Summary Display
 
 📷 Screenshots
-You can add your screenshots here. Once you provide them, I can help place and caption them appropriately.
+You can add your screenshots here. Let me know once they’re ready so I can help you place and caption them.
 
 🧰 Technologies Used
-Python + Tkinter – for GUI development
+Python + Tkinter – GUI Development
 
-SQLite – for inventory management
+SQLite – Inventory Management
 
-Pillow – for handling images (if used)
+Pillow – Image Support (if used)
 
 ⚠️ Limitations
-Screen layout works only on 1920x1080 resolutions
+Layout works only on 1920x1080 screen resolutions
 
-No OOP structure; all logic is procedural
+No OOP structure; logic is procedural
 
-Limited input validation and error handling
+Minimal input validation and error handling
 
 📚 Learning Goals
 Improve familiarity with GUI development using Tkinter
@@ -44,6 +44,4 @@ bash
 Copy
 Edit
 python main.py
-Make sure you have all required libraries installed (e.g., sqlite3, tkinter, and Pillow if image support is included).
-
-Let me know once you upload screenshots — I’ll help you place them cleanly with appropriate captions like a professional portfolio piece. Or if you want a more visual version with badges and emoji formatting, I can help with that too.
+Ensure all required libraries are installed (sqlite3, tkinter, and Pillow if applicable).
