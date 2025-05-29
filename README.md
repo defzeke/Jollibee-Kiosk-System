@@ -19,7 +19,9 @@ This project was developed as a **learning exercise**, particularly focused on G
 
 ## 📷 Screenshots
 
-...
+
+![image](https://github.com/user-attachments/assets/48d430cc-0255-4ebf-a7aa-558d6edc3875)
+
 
 ---
 
