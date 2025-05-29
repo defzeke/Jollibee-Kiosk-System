@@ -38,7 +38,8 @@ This project was developed as a **learning exercise**, particularly focused on G
 
 - Layout works **only on 1920x1080** screen resolutions  
 - No OOP structure; logic is procedural  
-- Minimal input validation and error handling  
+- Minimal input validation and error handling
+- Hardcoded the directories of photos used
 
 ---
 
