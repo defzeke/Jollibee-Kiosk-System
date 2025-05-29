@@ -21,6 +21,7 @@ This project was developed as a **learning exercise**, particularly focused on G
 
 
 ![image](https://github.com/user-attachments/assets/48d430cc-0255-4ebf-a7aa-558d6edc3875)
+![image](https://github.com/user-attachments/assets/4818069a-e8d9-41ff-974e-98bafd2fc3ab)
 
 
 ---
