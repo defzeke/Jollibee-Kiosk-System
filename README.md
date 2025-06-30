@@ -30,7 +30,7 @@ This project was developed as a **learning exercise**, particularly focused on G
 
 - **Python** + `tkinter` – GUI development  
 - **SQLite** – Inventory management  
-- **Pillow** – Image support (if used)  
+- **Pillow** – Image support 
 
 ---
 
